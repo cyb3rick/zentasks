@@ -1,3 +1,6 @@
 [0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(C:\Users\cyb\Desktop\zentasks\conf\application.conf,C:\Users\cyb\Desktop\zentasks\target\scala-2.10\classes\application.conf)[0m
-[0m[[0mdebug[0m] [0m	(C:\Users\cyb\Desktop\zentasks\conf\routes,C:\Users\cyb\Desktop\zentasks\target\scala-2.10\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\cyb\workspace\zentasks\conf\application.conf,C:\Users\cyb\workspace\zentasks\target\scala-2.10\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\cyb\workspace\zentasks\conf\evolutions,C:\Users\cyb\workspace\zentasks\target\scala-2.10\classes\evolutions)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\cyb\workspace\zentasks\conf\routes,C:\Users\cyb\workspace\zentasks\target\scala-2.10\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\cyb\workspace\zentasks\conf\evolutions\default,C:\Users\cyb\workspace\zentasks\target\scala-2.10\classes\evolutions\default)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\cyb\workspace\zentasks\conf\evolutions\default\1.sql,C:\Users\cyb\workspace\zentasks\target\scala-2.10\classes\evolutions\default\1.sql)[0m

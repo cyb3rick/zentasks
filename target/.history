@@ -1,2 +1,8 @@
 eclipse
 git merge master
+run
+compile
+eclipse eclipse with-source=true
+eclipse with-source=true
+compile
+git status

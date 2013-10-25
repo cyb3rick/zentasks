@@ -1,7 +1,7 @@
 package models;
 
 import javax.persistence.*;
-import com.avaje.*;
+
 import play.db.ebean.Model;
 
 @Entity
